@@ -45,7 +45,7 @@
     },
     "scripts": {
         "dev": "vite",
-        "build": "tsc && vite build && node build.mjs",
+        "build": "node build.mjs",
         "start": "node start.mjs"
     },
     "eslintConfig": {
